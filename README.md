@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я Евгений 👋
 
-<!--
-**staff768/staff768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент, пишу на Go и Python, изучаю C и C++.
+Люблю делать небольшие рабочие вещи: API, боты, утилиты.
 
-Here are some ideas to get you started:
+## Над чем работаю
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Task-Tracker** — трекер задач на Go
+- **Blog_Platfrom_RESTAPI** — REST API для блог-платформы на Go
+- **bot_for_tg** — Telegram-бот на Python
+
+## Стек
+
+Go · Python · C · C++ · Git · Linux
+
+## Связаться
+
+Telegram: [@KED_768crew](https://t.me/KED_768crew)
