@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4a2a8a,100:9d7bff&height=180&section=header&text=staff768&fontSize=44&fontColor=f0e8ff&animation=fadeIn&fontAlignY=38&desc=code%20%C2%B7%20katana%20%C2%B7%20coffee&descAlignY=58&descSize=16&descColor=d4c8ff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4a2a8a,100:9d7bff&height=160&section=header&text=staff768&fontSize=48&fontColor=f0e8ff&animation=fadeIn&fontAlignY=50" width="100%" alt="header"/>
 
 ---
 
@@ -34,6 +34,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@KED__768crew-7c4dff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KED_768crew)
 ![Discord](https://img.shields.io/badge/Discord-chumovajashmal-5b3cc4?style=for-the-badge&logo=discord&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-e.kirpichev2006%40gmail.com-9d7bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.kirpichev2006@gmail.com)
 
 </div>
 
