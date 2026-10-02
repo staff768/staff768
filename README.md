@@ -12,19 +12,33 @@
 
 ### 🗡️ Проекты
 
-| Проект | О чём |
-|---|---|
-| [loglinter](https://github.com/staff768/loglinter) | линтер для логов |
-| [ai_agent_for_browser](https://github.com/staff768/ai_agent_for_browser) | ИИ-агент для работы в браузере |
-| [OrderConsumer](https://github.com/staff768/OrderConsumer) | обработчик (consumer) заказов |
-| [Blog_Platfrom_RESTAPI](https://github.com/staff768/Blog_Platfrom_RESTAPI) | REST API блог-платформы |
+<div align="center">
+<table>
+<tr>
+<td>
+<a href="https://github.com/staff768/loglinter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=staff768&repo=loglinter&bg_color=0f0a1f&title_color=b79cff&text_color=d4c8ff&icon_color=9d7bff&border_color=4a2a8a&border_radius=12" alt="loglinter"/></a>
+</td>
+<td>
+<a href="https://github.com/staff768/ai_agent_for_browser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=staff768&repo=ai_agent_for_browser&bg_color=0f0a1f&title_color=b79cff&text_color=d4c8ff&icon_color=9d7bff&border_color=4a2a8a&border_radius=12" alt="ai_agent_for_browser"/></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/staff768/OrderConsumer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=staff768&repo=OrderConsumer&bg_color=0f0a1f&title_color=b79cff&text_color=d4c8ff&icon_color=9d7bff&border_color=4a2a8a&border_radius=12" alt="OrderConsumer"/></a>
+</td>
+<td>
+<a href="https://github.com/staff768/Blog_Platfrom_RESTAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=staff768&repo=Blog_Platfrom_RESTAPI&bg_color=0f0a1f&title_color=b79cff&text_color=d4c8ff&icon_color=9d7bff&border_color=4a2a8a&border_radius=12" alt="Blog_Platfrom_RESTAPI"/></a>
+</td>
+</tr>
+</table>
+</div>
 
 ### 📜 Статистика
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=staff768&show_icons=true&hide_border=true&bg_color=0f0a1f&title_color=b79cff&icon_color=9d7bff&text_color=d4c8ff" height="150" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staff768&layout=compact&hide_border=true&bg_color=0f0a1f&title_color=b79cff&text_color=d4c8ff" height="150" alt="langs"/>
+<img src="https://github-readme-stats.vercel.app/api?username=staff768&show_icons=true&bg_color=0f0a1f&title_color=b79cff&icon_color=9d7bff&text_color=d4c8ff&border_color=4a2a8a&border_radius=12" height="150" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staff768&layout=compact&bg_color=0f0a1f&title_color=b79cff&text_color=d4c8ff&border_color=4a2a8a&border_radius=12" height="150" alt="langs"/>
 
 </div>
 
